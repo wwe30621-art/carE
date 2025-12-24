@@ -15,7 +15,7 @@
       <!-- LINE 29 section 的底圖目前是假圖，因此先用 LINE 33 div 做透色遮罩處理文字顏色與原底圖主色相近問題 -->
       <div class="mask flex flex-col justify-center items-center h-[100%] bg-[#f2f1eedd]">
         <h1 class="text-[36px] text-[#4a4a43] font-black">carE 汽車維修預約平台</h1>
-        <h2 class="text-[28px] text-[#4a4a43] font-bold">尋找專業的汽車維修服務</h2>
+        <h2 class="text-[28px] text-[#4a4a43] font-bold">尋找專業的汽車維修服務aaa</h2>
         <h3 class="mb-[50px] text-[20px] text-[#8a8a7d] font-normal">
           連結全台優質保養廠，給您的愛車最好的照顧
         </h3>
